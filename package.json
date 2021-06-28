@@ -1,0 +1,15 @@
+{
+  "name": "bitcoin",
+  "version": "1.0.0",
+  "description": "This is a bitcoin app written with the help of electron.js",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Shriyansh Purohit",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "electron": "^13.1.4"
+  }
+}
