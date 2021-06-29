@@ -1,5 +1,4 @@
-<h2>This is a project written in [Electron.js](https://www.electronjs.org)</h2>
-<hr>
+# This is a project written in [Electron.js](https://www.electronjs.org)
 <h3>Project Setup</h3>
 <ul>
     <li>Install Electron
