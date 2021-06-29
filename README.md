@@ -8,6 +8,9 @@
     <li>Install axios
     <pre>npm install axios --save</pre>
     </li>
+    <li>Run Project
+     <pre>npm start</pre>
+    </li>
 </ul>
 <hr>
 This App makes API calls to a website in every 60 seconds 
